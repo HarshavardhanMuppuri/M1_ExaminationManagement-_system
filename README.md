@@ -1,2 +1,2 @@
-# M1_ExaminationManagement-_system
+# M1_ExaminationManagement_system
 Naming convention: "M1_ExaminationManagement_System"
